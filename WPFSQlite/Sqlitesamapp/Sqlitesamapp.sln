@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqlitesamapp", "Sqlitesamapp.csproj", "{8C6EAB76-4E55-424C-A46F-2A71412A16BB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sqltest", "..\Sqltest\Sqltest.vdproj", "{EF89869E-8F75-4B12-96E2-7088961755CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C6EAB76-4E55-424C-A46F-2A71412A16BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6EAB76-4E55-424C-A46F-2A71412A16BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6EAB76-4E55-424C-A46F-2A71412A16BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6EAB76-4E55-424C-A46F-2A71412A16BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF89869E-8F75-4B12-96E2-7088961755CD}.Debug|Any CPU.ActiveCfg = Debug
+		{EF89869E-8F75-4B12-96E2-7088961755CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5C2D02-B304-4DFE-AD36-938664B825F3}
+	EndGlobalSection
+EndGlobal
